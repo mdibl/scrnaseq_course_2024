@@ -1,0 +1,32 @@
+site_name: ScRNAseq in the Cloud
+nav:
+  - Home: index.md
+  - Instructors: instructors.md
+  - Launch: launch.md
+  - Output: output.md
+theme:
+  name: material
+  features: 
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle: 
+        icon: material/toggle-switch-off-outline
+        name: Switch to Dark Mode
+      primary: blue
+      accent: deep orange
+    - scheme: slate
+      toggle: 
+        icon: material/toggle-switch
+        name: Switch to Light Mode
+      primary: blue
+      accent: deep orange
