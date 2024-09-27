@@ -4,26 +4,15 @@ This two-and-a-half day workshop will focus on using cloud infrastructure to car
 
 ---
 
-<!-- Include Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-<div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
-    <!-- Content for the first column -->
-    <ul class="course-detail-list">
-    <span><i class="fas fa-calendar-alt" aria-hidden="true" style="color: royalblue;"></i></span> October 23-25, 2024<br>
-    <span><i class="fas fa-map-marker-alt" aria-hidden="true" style="color: turquoise;"></i></span> MDI Biological Laboratory<br>
-    <span><i class="fas fa-chevron-right" aria-hidden="true"></i></span><a href="https://mdibl.org/education/contact-education/"> Contact Our Education Office</a>
-    </ul>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <!-- Content for the second column -->
-    <h5 class="link-item"><span><i class="fas fa-chevron-right" aria-hidden="true"></i></span><a href="https://labcentral.mdibl.org/programs/view/660"> Apply Now</a></h5>
-    <h5><i class="fas fa-exclamation-circle" style="color: red;" aria-hidden="true"></i> Application Deadline: 10/15/2024</h5>
-  </div>
+<div class="grid cards" markdown>
+ :material-calendar: October 23-25, 2024          
+ :fontawesome-solid-map-location: MDI Biological Laboratory 
 </div>
 
+[Apply Now](https://labcentral.mdibl.org/programs/view/660){ .md-button .md-button--primary }
+[Contact Our Education Office](https://mdibl.org/education/contact-education/){ .md-button }
 
+!!! warning "Application Deadline: 10/15/2024"
 
 ---
 
@@ -88,7 +77,8 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 | **Other academic/non-profit** | USD $450 |
 | **Industry/for-profit**     | USD $650   |
 
-> The tuition includes all meals and housing.
+!!! note
+    The tuition includes all meals and housing.
 
 ---
 

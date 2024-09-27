@@ -20,7 +20,8 @@ https://mdibl-cloud-workshop.s3.us-east-1.amazonaws.com
 
 
 ### Sample Sheet
-> Note: *Young_Y1_lung_29w* sample has been removed. The authors found batch effects in this sample and excluded it in downstream analysis. Might be good to keep in as a teaching tool, but their method of batch detection would need to be incorporated into our workflow, so we're leaving it out.
+!!! info  
+     *Young_Y1_lung_29w* sample has been removed. The authors found batch effects in this sample and excluded it in downstream analysis. Might be good to keep in as a teaching tool, but their method of batch detection would need to be incorporated into our workflow, so we're leaving it out.
 
 
 > Data Location: https://mdibl-cloud-workshop.s3.amazonaws.com/scRNAseq-2024/data/
@@ -80,7 +81,9 @@ skip_emptydrops: true
 ## Setup Details for `mdibl/scscape` (`scdownstream`)
 
 ### Github Repository Address
+```
 https://github.com/mdibl/scscape
+```
 
 ### Run Command
 ```sh
