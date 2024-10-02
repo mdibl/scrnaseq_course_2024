@@ -1,8 +1,29 @@
 # Launch Setup
 
-## Setup Details for `nf-core/scrnaseq`
+## Pre-Built Template vs Float CLI vs MMCloud Air
+
+
+
+!!! Note "Differences"
+
+    === "Pre-Built Template"
+
+        For this course, we have already set up the full configuration for the pipleines. To submit, go to the MMCloud Opcenter and and launch you designated pipeline.
+
+    === "MMCloud Air"
+
+        Launching in [MMCloud Air](https://air.mmcloud.io/) is fully web-based allowing users to launch the pipeline from the web in a GUI. 
+    
+    === "Float CLI"
+
+        Launching from the Float CLI gives you the most control. You have full control of the launch, but need to be familiar with the float cli.
+
+
+## `nf-core/scrnaseq` Setup
+
 
 #### Run Command
+
 ```sh
 nextflow run nf-core/scrnaseq -r 2.7.0
 ```
@@ -76,9 +97,17 @@ gtf: 'https://ftp.ensembl.org/pub/release-112/gtf/mus_musculus/Mus_musculus.GRCm
 skip_emptydrops: true
 ```
 
+!!! danger "Cost Summary"
+
+    | **onDemand/Spot** | Time | Cost |
+    | -------- | -------- | -------- |
+    | **OnDemand**     | 3h43m22s     | $54.773     |
+    | **SpotFirst** | 3h42m56s | $20.473 | 
+
+
 ---
 
-## Setup Details for `mdibl/scscape` (`scdownstream`)
+## `mdibl/scscape` Setup
 
 ### Github Repository Address
 ```
@@ -167,7 +196,7 @@ Young_Y5_spleen_34w_rep2,s3://mdibl-cloud-workshop/scrnaseq_output/cellranger/co
 ```
 
 ### Segmentation Sheet
-```
+```csv
 id,kidney,spleen,lungs,all
 Old_O1_kidney_88w_rep1,true,false,false,true
 Old_O1_lung_88w_rep1,false,false,true,true
@@ -208,7 +237,7 @@ Young_Y5_spleen_34w_rep2,false,true,false,true
 ```
 
 ### Auxillary Feature File
-```
+```csv
 MTgenes,G2Mgenes,Sgenes,RMgenes
 mt-Atp6,Hmgb2,Mcm5,
 mt-Atp8,Cdk1,Pcna,
@@ -269,7 +298,8 @@ mt-Ty,Dlgap5,Clspn,
 Sateesh cost breakdown for scrnaseq
 
 
-| onDemand/Spot | Time | Cost |
+| **onDemand/Spot** | Time | Cost |
 | -------- | -------- | -------- |
-| OnDemand     | 3h43m22s     | $54.773     |
-| SpotFirst | 3h42m56s | $20.473 | 
+| **OnDemand**     | 3h43m22s     | $54.773     |
+| **SpotFirst** | 3h42m56s | $20.473 | 
+

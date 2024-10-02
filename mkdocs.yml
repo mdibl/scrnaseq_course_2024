@@ -2,10 +2,13 @@ site_name: ScRNAseq in the Cloud
 nav:
   - Home: index.md
   - Instructors: instructors.md
+  - Arrival: arrival.md
   - Launch: launch.md
   - Output: output.md
 theme:
   name: material
+  icon:
+    logo: simple/mediapipe       
   features: 
     - navigation.tabs
     - navigation.sections
@@ -23,21 +26,25 @@ theme:
       toggle: 
         icon: material/toggle-switch-off-outline
         name: Switch to Dark Mode
-      primary: blue
-      accent: deep orange
+      primary: custom
+      accent: custom
     - scheme: slate
       toggle: 
         icon: material/toggle-switch
         name: Switch to Light Mode
-      primary: blue
-      accent: deep orange
+      primary: custom
+      accent: custom
 repo_url: https://github.com/mdibl/scrnaseq_course_2024
+extra_css:
+  - stylesheets/extra.css
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
