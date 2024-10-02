@@ -8,7 +8,7 @@
 
     === "Pre-Built Template"
 
-        For this course, we have already set up the full configuration for the pipleines. To submit, go to the MMCloud Opcenter and and launch you designated pipeline.
+        For this course, we have already set up the full configuration for the pipleines. To submit, go to the MMCloud Opcenter and and launch your designated pipeline.
 
     === "MMCloud Air"
 
