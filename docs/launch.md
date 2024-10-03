@@ -6,7 +6,7 @@
 
     === "Pre-Built Template"
 
-        For this course, we have already set up the full configuration for the pipleines. To submit, go to the [MMCloud Opcenter](https://54.165.194.151/#/opcenter/cost-summary) and and launch your designated pipeline.
+        For this course, we have already set up the full configuration for the pipleines. To submit, go to the [MMCloud Opcenter](https://34.234.69.142/#/login) and and launch your designated pipeline.
 
     === "MMCloud Air"
 
