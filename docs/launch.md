@@ -45,46 +45,46 @@ https://mdibl-workshop.s3.us-east-1.amazonaws.com
      *Young_Y1_lung_29w* sample has been removed. The authors found batch effects in this sample and excluded it in downstream analysis. Might be good to keep in as a teaching tool, but their method of batch detection would need to be incorporated into our workflow, so we're leaving it out.
 
 
-> Data Location: https://mdibl-workshop.s3.amazonaws.com/scRNAseq-2024/data/
+> Data Location: https://mdibl-workshop.s3.amazonaws.com/data/
 ```txt
 sample,fastq_1,fastq_2
-Young_Y1_kidney_29w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320581/Y1K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320581/Y1K1_R2_001.fastq.gz
-Young_Y1_kidney_29w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320582/Y1K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320582/Y1K2_R2_001.fastq.gz
-Young_Y1_spleen_29w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320585/Y1S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320585/Y1S1_R2_001.fastq.gz
-Young_Y3_kidney_31w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320586/Y3K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320586/Y3K1_R2_001.fastq.gz
-Young_Y3_kidney_31w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320587/Y3K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320587/Y3K2_R2_001.fastq.gz
-Young_Y3_lung_31w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320588/Y3RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320588/Y3RL1_R2_001.fastq.gz
-Young_Y3_lung_31w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320589/Y3RL2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320589/Y3RL2_R2_001.fastq.gz
-Young_Y3_spleen_31w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320590/Y3S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320590/Y3S1_R2_001.fastq.gz
-Young_Y3_spleen_31w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320591/Y3S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320591/Y3S2_R2_001.fastq.gz
-Young_Y4_kidney_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320592/Y4K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320592/Y4K1_R2_001.fastq.gz
-Young_Y4_kidney_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320593/Y4K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320593/Y4K2_R2_001.fastq.gz
-Young_Y4_lung_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320594/Y4RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320594/Y4RL1_R2_001.fastq.gz
-Young_Y4_lung_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320595/Y4RL2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320595/Y4RL2_R2_001.fastq.gz
-Young_Y4_spleen_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320596/Y4S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320596/Y4S1_R2_001.fastq.gz
-Young_Y4_spleen_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320597/Y4S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320597/Y4S2_R2_001.fastq.gz
-Young_Y5_kidney_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320598/Y5K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320598/Y5K1_R2_001.fastq.gz
-Young_Y5_kidney_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320599/Y5K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320599/Y5K2_R2_001.fastq.gz
-Young_Y5_lung_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320600/Y5RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320600/Y5RL1_R2_001.fastq.gz
-Young_Y5_lung_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320601/Y5RL2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320601/Y5RL2_R2_001.fastq.gz
-Young_Y5_spleen_34w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320602/Y5S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320602/Y5S1_R2_001.fastq.gz
-Young_Y5_spleen_34w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320603/Y5S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320603/Y5S2_R2_001.fastq.gz
-Old_O1_kidney_88w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320604/O1K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320604/O1K1_R2_001.fastq.gz
-Old_O1_kidney_88w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320605/O1K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320605/O1K2_R2_001.fastq.gz
-Old_O1_lung_88w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320606/O1RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320606/O1RL1_R2_001.fastq.gz
-Old_O1_lung_88w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320607/O1RL2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320607/O1RL2_R2_001.fastq.gz
-Old_O1_spleen_88w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320608/O1S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320608/O1S1_R2_001.fastq.gz
-Old_O1_spleen_88w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320609/O1S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320609/O1S2_R2_001.fastq.gz
-Old_O2_kidney_91w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320610/O2K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320610/O2K1_R2_001.fastq.gz
-Old_O2_kidney_91w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320611/O2K2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320611/O2K2_R2_001.fastq.gz
-Old_O2_lung_91w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320612/O2RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320612/O2RL1_R2_001.fastq.gz
-Old_O2_lung_91w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320613/O2RL2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320613/O2RL2_R2_001.fastq.gz
-Old_O2_spleen_91w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320614/O2S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320614/O2S1_R2_001.fastq.gz
-Old_O2_spleen_91w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320615/O2S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320615/O2S2_R2_001.fastq.gz
-Old_O3_kidney_93w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320616/O3K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320616/O3K1_R2_001.fastq.gz
-Old_O3_lung_93w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320617/O3RL1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320617/O3RL1_R2_001.fastq.gz
-Old_O3_spleen_93w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320618/O3S1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320618/O3S1_R2_001.fastq.gz
-Old_O3_spleen_93w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320619/O3S2_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320619/O3S2_R2_001.fastq.gz
+Young_Y1_kidney_29w_rep1,/staged-files-1/data/SRR9320581/Y1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320581/Y1K1_R2_001.fastq.gz
+Young_Y1_kidney_29w_rep2,/staged-files-1/data/SRR9320582/Y1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320582/Y1K2_R2_001.fastq.gz
+Young_Y1_spleen_29w_rep1,/staged-files-1/data/SRR9320585/Y1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320585/Y1S1_R2_001.fastq.gz
+Young_Y3_kidney_31w_rep1,/staged-files-1/data/SRR9320586/Y3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320586/Y3K1_R2_001.fastq.gz
+Young_Y3_kidney_31w_rep2,/staged-files-1/data/SRR9320587/Y3K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320587/Y3K2_R2_001.fastq.gz
+Young_Y3_lung_31w_rep1,/staged-files-1/data/SRR9320588/Y3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320588/Y3RL1_R2_001.fastq.gz
+Young_Y3_lung_31w_rep2,/staged-files-1/data/SRR9320589/Y3RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320589/Y3RL2_R2_001.fastq.gz
+Young_Y3_spleen_31w_rep1,/staged-files-1/data/SRR9320590/Y3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320590/Y3S1_R2_001.fastq.gz
+Young_Y3_spleen_31w_rep2,/staged-files-1/data/SRR9320591/Y3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320591/Y3S2_R2_001.fastq.gz
+Young_Y4_kidney_34w_rep1,/staged-files-1/data/SRR9320592/Y4K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320592/Y4K1_R2_001.fastq.gz
+Young_Y4_kidney_34w_rep2,/staged-files-1/data/SRR9320593/Y4K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320593/Y4K2_R2_001.fastq.gz
+Young_Y4_lung_34w_rep1,/staged-files-1/data/SRR9320594/Y4RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320594/Y4RL1_R2_001.fastq.gz
+Young_Y4_lung_34w_rep2,/staged-files-1/data/SRR9320595/Y4RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320595/Y4RL2_R2_001.fastq.gz
+Young_Y4_spleen_34w_rep1,/staged-files-1/data/SRR9320596/Y4S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320596/Y4S1_R2_001.fastq.gz
+Young_Y4_spleen_34w_rep2,/staged-files-1/data/SRR9320597/Y4S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320597/Y4S2_R2_001.fastq.gz
+Young_Y5_kidney_34w_rep1,/staged-files-1/data/SRR9320598/Y5K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320598/Y5K1_R2_001.fastq.gz
+Young_Y5_kidney_34w_rep2,/staged-files-1/data/SRR9320599/Y5K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320599/Y5K2_R2_001.fastq.gz
+Young_Y5_lung_34w_rep1,/staged-files-1/data/SRR9320600/Y5RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320600/Y5RL1_R2_001.fastq.gz
+Young_Y5_lung_34w_rep2,/staged-files-1/data/SRR9320601/Y5RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320601/Y5RL2_R2_001.fastq.gz
+Young_Y5_spleen_34w_rep1,/staged-files-1/data/SRR9320602/Y5S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320602/Y5S1_R2_001.fastq.gz
+Young_Y5_spleen_34w_rep2,/staged-files-1/data/SRR9320603/Y5S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320603/Y5S2_R2_001.fastq.gz
+Old_O1_kidney_88w_rep1,/staged-files-1/data/SRR9320604/O1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320604/O1K1_R2_001.fastq.gz
+Old_O1_kidney_88w_rep2,/staged-files-1/data/SRR9320605/O1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320605/O1K2_R2_001.fastq.gz
+Old_O1_lung_88w_rep1,/staged-files-1/data/SRR9320606/O1RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320606/O1RL1_R2_001.fastq.gz
+Old_O1_lung_88w_rep2,/staged-files-1/data/SRR9320607/O1RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320607/O1RL2_R2_001.fastq.gz
+Old_O1_spleen_88w_rep1,/staged-files-1/data/SRR9320608/O1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320608/O1S1_R2_001.fastq.gz
+Old_O1_spleen_88w_rep2,/staged-files-1/data/SRR9320609/O1S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320609/O1S2_R2_001.fastq.gz
+Old_O2_kidney_91w_rep1,/staged-files-1/data/SRR9320610/O2K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320610/O2K1_R2_001.fastq.gz
+Old_O2_kidney_91w_rep2,/staged-files-1/data/SRR9320611/O2K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320611/O2K2_R2_001.fastq.gz
+Old_O2_lung_91w_rep1,/staged-files-1/data/SRR9320612/O2RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320612/O2RL1_R2_001.fastq.gz
+Old_O2_lung_91w_rep2,/staged-files-1/data/SRR9320613/O2RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320613/O2RL2_R2_001.fastq.gz
+Old_O2_spleen_91w_rep1,/staged-files-1/data/SRR9320614/O2S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320614/O2S1_R2_001.fastq.gz
+Old_O2_spleen_91w_rep2,/staged-files-1/data/SRR9320615/O2S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320615/O2S2_R2_001.fastq.gz
+Old_O3_kidney_93w_rep1,/staged-files-1/data/SRR9320616/O3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320616/O3K1_R2_001.fastq.gz
+Old_O3_lung_93w_rep1,/staged-files-1/data/SRR9320617/O3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320617/O3RL1_R2_001.fastq.gz
+Old_O3_spleen_93w_rep1,/staged-files-1/data/SRR9320618/O3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320618/O3S1_R2_001.fastq.gz
+Old_O3_spleen_93w_rep2,/staged-files-1/data/SRR9320619/O3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320619/O3S2_R2_001.fastq.gz
 ```
 
 ### Params
@@ -92,10 +92,14 @@ Old_O3_spleen_93w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320619/O3S2_R1_001
 multiqc_title: 'scRNAseq-workshop'
 aligner: 'cellranger'
 protocol: '10XV2'
-fasta: 's3://mdibl-workshop/reference/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
-gtf: 's3://mdibl-workshop/reference/Mus_musculus.GRCm39.112.gtf.gz'
+fasta: '/staged-files-1/reference/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
+gtf: '/staged-files-1/reference/Mus_musculus.GRCm39.112.gtf.gz'
 skip_emptydrops: true
 ```
+
+!!! note
+    Specifiy the Output Directory
+
 
 !!! danger "Cost Summary"
 
@@ -121,7 +125,7 @@ https://github.com/mdibl/scscape
 
 ### Run Command
 ```sh
-nextflow run nf-core-scscape/main.nf -c mmcloud.config -params-file parameters.json -profile docker
+nextflow run mdibl/scscape -c mmcloud.config -params-file parameters.json -profile docker
 ```
 
 ### Sample Sheet
