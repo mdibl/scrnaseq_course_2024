@@ -5,6 +5,7 @@ nav:
   - Arrival: arrival.md
   - Launch: launch.md
   - Output: output.md
+  - Loupe Browser: loupe.md
 theme:
   name: material
   icon:

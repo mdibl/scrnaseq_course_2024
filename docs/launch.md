@@ -1,6 +1,6 @@
 # Launch Setup
 
-## Pre-Built Template vs Float CLI vs MMCloud Air
+## **Pre-Built Template** vs **Float CLI** vs **MMCloud Air**
 
 
 
@@ -19,7 +19,7 @@
         Launching from the Float CLI gives you the most control. You have full control of the launch, but need to be familiar with the float cli.
 
 
-## `nf-core/scrnaseq` Setup
+## **`nf-core/scrnaseq` Setup**
 
 
 #### Run Command
@@ -36,7 +36,7 @@ nextflow run nf-core/scrnaseq -r 2.7.0
 
 #### Staged Mounts
 ```
-https://mdibl-cloud-workshop.s3.us-east-1.amazonaws.com
+https://mdibl-workshop.s3.us-east-1.amazonaws.com
 ```
 
 
@@ -45,7 +45,7 @@ https://mdibl-cloud-workshop.s3.us-east-1.amazonaws.com
      *Young_Y1_lung_29w* sample has been removed. The authors found batch effects in this sample and excluded it in downstream analysis. Might be good to keep in as a teaching tool, but their method of batch detection would need to be incorporated into our workflow, so we're leaving it out.
 
 
-> Data Location: https://mdibl-cloud-workshop.s3.amazonaws.com/scRNAseq-2024/data/
+> Data Location: https://mdibl-workshop.s3.amazonaws.com/scRNAseq-2024/data/
 ```txt
 sample,fastq_1,fastq_2
 Young_Y1_kidney_29w_rep1,/staged-files-1/scRNAseq-2024/data/SRR9320581/Y1K1_R1_001.fastq.gz,/staged-files-1/scRNAseq-2024/data/SRR9320581/Y1K1_R2_001.fastq.gz
@@ -92,8 +92,8 @@ Old_O3_spleen_93w_rep2,/staged-files-1/scRNAseq-2024/data/SRR9320619/O3S2_R1_001
 multiqc_title: 'scRNAseq-workshop'
 aligner: 'cellranger'
 protocol: '10XV2'
-fasta: 'https://ftp.ensembl.org/pub/release-112/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
-gtf: 'https://ftp.ensembl.org/pub/release-112/gtf/mus_musculus/Mus_musculus.GRCm39.112.gtf.gz'
+fasta: 's3://mdibl-workshop/reference/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
+gtf: 's3://mdibl-workshop/reference/Mus_musculus.GRCm39.112.gtf.gz'
 skip_emptydrops: true
 ```
 
@@ -107,7 +107,12 @@ skip_emptydrops: true
 
 ---
 
-## `mdibl/scscape` Setup
+## **`mdibl/scscape` Setup**
+
+!!! warning
+    locations need to me shifted to sandbox accont
+
+
 
 ### Github Repository Address
 ```
@@ -295,11 +300,4 @@ mt-Ty,Dlgap5,Clspn,
 ,Cenpa,,
 ```
 
-Sateesh cost breakdown for scrnaseq
-
-
-| **onDemand/Spot** | Time | Cost |
-| -------- | -------- | -------- |
-| **OnDemand**     | 3h43m22s     | $54.773     |
-| **SpotFirst** | 3h42m56s | $20.473 | 
 

@@ -85,7 +85,7 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 ## Partners
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://mdibl.org/wp-content/uploads/2024/07/IDeA-logo-300x252-1.jpg" alt="IDeA Logo" style="height: 100px"/>
-  <img src="https://mdibl.org/wp-content/uploads/2021/08/INBRE_logo.jpg" alt="Maine INBRE Logo" style="height: 100px"/>
-  <img src="https://mdibl.org/wp-content/uploads/2024/02/MemVerge-Logo-03052023.png" alt="Memverge Logo" style="height: 100px"/>
+  <img src="https://mdibl.org/wp-content/uploads/2024/07/IDeA-logo-300x252-1.jpg" alt="IDeA Logo" style="height: 100px" loading="lazy"/>
+  <img src="https://mdibl.org/wp-content/uploads/2021/08/INBRE_logo.jpg" alt="Maine INBRE Logo" style="height: 100px" loading="lazy"/>
+  <img src="https://mdibl.org/wp-content/uploads/2024/02/MemVerge-Logo-03052023.png" alt="Memverge Logo" style="height: 100px" loading="lazy"/>
 </div>
