@@ -20,6 +20,8 @@
 
 ## **`nf-core/scrnaseq` Setup**
 
+[:fontawesome-brands-square-github: GitHub](https://github.com/nf-core/scrnaseq/tree/2.7.1){.md-button .md-button--primary}
+
 !!! example "Launch Methods"
 
     === "Pre-Built Template"
@@ -138,6 +140,7 @@
         protocol: '10XV2'
         fasta: '/staged-files-1/reference/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
         gtf: '/staged-files-1/reference/Mus_musculus.GRCm39.112.gtf.gz'
+        cellranger_index: "/staged-files-1/reference/Mus_musculus.GRCm39-cellranger-index/
         skip_emptydrops: true
         ```
 
@@ -158,7 +161,7 @@
 
 ## **`mdibl/scscape` Setup**
 
-View repository [here](https://github.com/mdibl/scscape)
+[:fontawesome-brands-square-github: GitHub](https://github.com/mdibl/scscape){.md-button .md-button--primary}
 
 !!! example "Launch Methods"
 
