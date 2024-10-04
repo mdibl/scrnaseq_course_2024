@@ -140,7 +140,7 @@
         protocol: '10XV2'
         fasta: '/staged-files-1/reference/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz'
         gtf: '/staged-files-1/reference/Mus_musculus.GRCm39.112.gtf.gz'
-        cellranger_index: "/staged-files-1/reference/Mus_musculus.GRCm39-cellranger-index/
+        cellranger_index: '/staged-files-1/reference/Mus_musculus.GRCm39-cellranger-index/'
         skip_emptydrops: true
         ```
 
