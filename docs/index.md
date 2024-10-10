@@ -46,12 +46,12 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 |-------------|---------------------------------------------------------|
 | **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-1                |
 | **9:30-10:00**  | Overview of day-2                                       |
-| **10:00-10:30** | Pipeline review (resiliency, cost analysis, failed jobs analysis if any)|
-| **10:30-11:00** | Debugging methodology & tips                            |
-| **11:00-12:00** | scrnaseq output QC review (multiqc, count matrices)     |
+| **10:00-11:00** | Keynote lecture-II by Dr. Prayag Murawala               |
+| **11:00-11:30** | Pipeline review (resiliency, cost analysis, failed jobs analysis if any)  |
+| **11:30-12:00** | Debugging methodology & tips                            |
 | **12:00-01:00** | Lunch                                                   |
 | **01:00-01:30** | MDI campus tour                                         |
-| **01:30-02:30** | Keynote lecture-II by Dr. Prayag Murawala               |
+| **01:30-02:30** | scrnaseq output QC review (multiqc, count matrices)     |
 | **02:30-04:30** | Downstream normalization & statistics (seurat)          |
 | **4:30-05:00**  | Launch scscape workflow                                 |
 

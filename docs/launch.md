@@ -26,7 +26,7 @@
 
     === "Pre-Built Template"
 
-        1. Sign in to the [MMCloud Opcenter](https://54.165.194.151/#/opcenter/cost-summary) with your given credentials.
+        1. Sign in to the [MMCloud Opcenter](https://34.234.69.142/#/login) with your given credentials.
         2. Select **Job Templates** from the left hand panel.
         3. Select **Private**.
         4. Select the Template for `scrnaseq` that matches your user name.
@@ -167,7 +167,7 @@
 
     === "Pre-Built Template"
 
-        1. Sign in to the [MMCloud Opcenter](https://54.165.194.151/#/opcenter/cost-summary) with your given credentials.
+        1. Sign in to the [MMCloud Opcenter](https://34.234.69.142/#/login) with your given credentials.
         2. Select **Job Templates** from the left hand panel.
         3. Select **Private**.
         4. Select the Template for `scscape` that matches your user name.
