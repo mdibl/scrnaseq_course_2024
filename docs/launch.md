@@ -295,3 +295,9 @@
         Please refer to [MMCloud Docs](https://www.mmcloud.io/resources/docs/juiceflow-aws) for instructions
 
 
+!!! danger "Cost Summary"
+
+    | **onDemand/Spot** | Time | Cost |
+    | -------- | -------- | -------- |
+    | **OnDemand**     | 5h36m20s     | $5.5854     |
+    | **SpotFirst** | 8h47m50s | $4.3996 | 
