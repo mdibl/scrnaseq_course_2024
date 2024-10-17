@@ -61,7 +61,7 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 |-------------|---------------------------------------------------------|
 | **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-2                |
 | **9:30-10:00**  | Overview of day-3                                       |
-| **10:00-10:30** | Loupe browser introduction                              |
+| **10:00-10:30** | [Loupe browser introduction](presentations/loupeBroswerIntroduction.pptx)                              |
 | **10:30-12:30** | Loupe browser exploration (validation logs, QC plots, PCA)|
 | **12:30-01:30** | Lunch & End of workshop                                 |
 
