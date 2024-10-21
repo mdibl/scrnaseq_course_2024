@@ -6,7 +6,7 @@ This two-and-a-half day workshop will focus on using cloud infrastructure to car
 
 <div class="grid cards" markdown>
  :material-calendar: October 23-25, 2024          
- :fontawesome-solid-map-location: MDI Biological Laboratory 
+ [:fontawesome-solid-map-location: MDI Biological Laboratory](https://maps.app.goo.gl/z3GV9i9G1UCauYPt5)
 </div>
 
 [Apply Now](https://labcentral.mdibl.org/programs/view/660){ .md-button .md-button--primary }
