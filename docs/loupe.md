@@ -8,7 +8,27 @@ The Loupe Browser is a powerful tool that allows users to investigate their data
 
 <br clear="left"/>
 
-## Why use the Loupe Browser?
+## Installation
 
-...
+Follow these instructions to download the Loupe Browser:
 
+1. Navigate to the [Loupe Browser Download Page](https://www.10xgenomics.com/support/software/loupe-browser/downloads)
+2. Select the installation for your computer's opperating system. 
+3. Follow any subsequent steps prompted from the installation. 
+
+## Preview
+
+#### Homepage
+![Homepage](images/LoupeHomepage.png)
+
+#### Clusters View
+![Clusters View](images/LoupeClustersView.png)
+
+#### Features View
+![Features View](images/LoupeFeaturesView.png)
+
+#### Reanalyze View
+![Reanalyze View](images/LoupeReanalyzeView.png)
+
+#### Advanced Selection View
+![Advanced Selection View](images/LoupeAdvancedSelectionView.png)
