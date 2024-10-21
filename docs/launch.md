@@ -94,43 +94,43 @@
 
         ```
         sample,fastq_1,fastq_2
-        Young_Y1_kidney_29w_rep1,/staged-files-1/data/SRR9320581/Y1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320581/Y1K1_R2_001.fastq.gz
-        Young_Y1_kidney_29w_rep2,/staged-files-1/data/SRR9320582/Y1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320582/Y1K2_R2_001.fastq.gz
-        Young_Y1_spleen_29w_rep1,/staged-files-1/data/SRR9320585/Y1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320585/Y1S1_R2_001.fastq.gz
-        Young_Y3_kidney_31w_rep1,/staged-files-1/data/SRR9320586/Y3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320586/Y3K1_R2_001.fastq.gz
-        Young_Y3_kidney_31w_rep2,/staged-files-1/data/SRR9320587/Y3K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320587/Y3K2_R2_001.fastq.gz
-        Young_Y3_lung_31w_rep1,/staged-files-1/data/SRR9320588/Y3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320588/Y3RL1_R2_001.fastq.gz
-        Young_Y3_lung_31w_rep2,/staged-files-1/data/SRR9320589/Y3RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320589/Y3RL2_R2_001.fastq.gz
-        Young_Y3_spleen_31w_rep1,/staged-files-1/data/SRR9320590/Y3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320590/Y3S1_R2_001.fastq.gz
-        Young_Y3_spleen_31w_rep2,/staged-files-1/data/SRR9320591/Y3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320591/Y3S2_R2_001.fastq.gz
-        Young_Y4_kidney_34w_rep1,/staged-files-1/data/SRR9320592/Y4K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320592/Y4K1_R2_001.fastq.gz
-        Young_Y4_kidney_34w_rep2,/staged-files-1/data/SRR9320593/Y4K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320593/Y4K2_R2_001.fastq.gz
-        Young_Y4_lung_34w_rep1,/staged-files-1/data/SRR9320594/Y4RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320594/Y4RL1_R2_001.fastq.gz
-        Young_Y4_lung_34w_rep2,/staged-files-1/data/SRR9320595/Y4RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320595/Y4RL2_R2_001.fastq.gz
-        Young_Y4_spleen_34w_rep1,/staged-files-1/data/SRR9320596/Y4S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320596/Y4S1_R2_001.fastq.gz
-        Young_Y4_spleen_34w_rep2,/staged-files-1/data/SRR9320597/Y4S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320597/Y4S2_R2_001.fastq.gz
-        Young_Y5_kidney_34w_rep1,/staged-files-1/data/SRR9320598/Y5K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320598/Y5K1_R2_001.fastq.gz
-        Young_Y5_kidney_34w_rep2,/staged-files-1/data/SRR9320599/Y5K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320599/Y5K2_R2_001.fastq.gz
-        Young_Y5_lung_34w_rep1,/staged-files-1/data/SRR9320600/Y5RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320600/Y5RL1_R2_001.fastq.gz
-        Young_Y5_lung_34w_rep2,/staged-files-1/data/SRR9320601/Y5RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320601/Y5RL2_R2_001.fastq.gz
-        Young_Y5_spleen_34w_rep1,/staged-files-1/data/SRR9320602/Y5S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320602/Y5S1_R2_001.fastq.gz
-        Young_Y5_spleen_34w_rep2,/staged-files-1/data/SRR9320603/Y5S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320603/Y5S2_R2_001.fastq.gz
-        Old_O1_kidney_88w_rep1,/staged-files-1/data/SRR9320604/O1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320604/O1K1_R2_001.fastq.gz
-        Old_O1_kidney_88w_rep2,/staged-files-1/data/SRR9320605/O1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320605/O1K2_R2_001.fastq.gz
-        Old_O1_lung_88w_rep1,/staged-files-1/data/SRR9320606/O1RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320606/O1RL1_R2_001.fastq.gz
-        Old_O1_lung_88w_rep2,/staged-files-1/data/SRR9320607/O1RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320607/O1RL2_R2_001.fastq.gz
-        Old_O1_spleen_88w_rep1,/staged-files-1/data/SRR9320608/O1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320608/O1S1_R2_001.fastq.gz
-        Old_O1_spleen_88w_rep2,/staged-files-1/data/SRR9320609/O1S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320609/O1S2_R2_001.fastq.gz
-        Old_O2_kidney_91w_rep1,/staged-files-1/data/SRR9320610/O2K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320610/O2K1_R2_001.fastq.gz
-        Old_O2_kidney_91w_rep2,/staged-files-1/data/SRR9320611/O2K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320611/O2K2_R2_001.fastq.gz
-        Old_O2_lung_91w_rep1,/staged-files-1/data/SRR9320612/O2RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320612/O2RL1_R2_001.fastq.gz
-        Old_O2_lung_91w_rep2,/staged-files-1/data/SRR9320613/O2RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320613/O2RL2_R2_001.fastq.gz
-        Old_O2_spleen_91w_rep1,/staged-files-1/data/SRR9320614/O2S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320614/O2S1_R2_001.fastq.gz
-        Old_O2_spleen_91w_rep2,/staged-files-1/data/SRR9320615/O2S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320615/O2S2_R2_001.fastq.gz
-        Old_O3_kidney_93w_rep1,/staged-files-1/data/SRR9320616/O3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320616/O3K1_R2_001.fastq.gz
-        Old_O3_lung_93w_rep1,/staged-files-1/data/SRR9320617/O3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320617/O3RL1_R2_001.fastq.gz
-        Old_O3_spleen_93w_rep1,/staged-files-1/data/SRR9320618/O3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320618/O3S1_R2_001.fastq.gz
-        Old_O3_spleen_93w_rep2,/staged-files-1/data/SRR9320619/O3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320619/O3S2_R2_001.fastq.gz
+        Young_Y1_kidney_29w,/staged-files-1/data/SRR9320581/Y1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320581/Y1K1_R2_001.fastq.gz
+        Young_Y1_kidney_29w,/staged-files-1/data/SRR9320582/Y1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320582/Y1K2_R2_001.fastq.gz
+        Young_Y1_spleen_29w,/staged-files-1/data/SRR9320585/Y1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320585/Y1S1_R2_001.fastq.gz
+        Young_Y3_kidney_31w,/staged-files-1/data/SRR9320586/Y3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320586/Y3K1_R2_001.fastq.gz
+        Young_Y3_kidney_31w,/staged-files-1/data/SRR9320587/Y3K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320587/Y3K2_R2_001.fastq.gz
+        Young_Y3_lung_31w,/staged-files-1/data/SRR9320588/Y3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320588/Y3RL1_R2_001.fastq.gz
+        Young_Y3_lung_31w,/staged-files-1/data/SRR9320589/Y3RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320589/Y3RL2_R2_001.fastq.gz
+        Young_Y3_spleen_31w,/staged-files-1/data/SRR9320590/Y3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320590/Y3S1_R2_001.fastq.gz
+        Young_Y3_spleen_31w,/staged-files-1/data/SRR9320591/Y3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320591/Y3S2_R2_001.fastq.gz
+        Young_Y4_kidney_34w,/staged-files-1/data/SRR9320592/Y4K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320592/Y4K1_R2_001.fastq.gz
+        Young_Y4_kidney_34w,/staged-files-1/data/SRR9320593/Y4K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320593/Y4K2_R2_001.fastq.gz
+        Young_Y4_lung_34w,/staged-files-1/data/SRR9320594/Y4RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320594/Y4RL1_R2_001.fastq.gz
+        Young_Y4_lung_34w,/staged-files-1/data/SRR9320595/Y4RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320595/Y4RL2_R2_001.fastq.gz
+        Young_Y4_spleen_34w,/staged-files-1/data/SRR9320596/Y4S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320596/Y4S1_R2_001.fastq.gz
+        Young_Y4_spleen_34w,/staged-files-1/data/SRR9320597/Y4S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320597/Y4S2_R2_001.fastq.gz
+        Young_Y5_kidney_34w,/staged-files-1/data/SRR9320598/Y5K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320598/Y5K1_R2_001.fastq.gz
+        Young_Y5_kidney_34w,/staged-files-1/data/SRR9320599/Y5K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320599/Y5K2_R2_001.fastq.gz
+        Young_Y5_lung_34w,/staged-files-1/data/SRR9320600/Y5RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320600/Y5RL1_R2_001.fastq.gz
+        Young_Y5_lung_34w,/staged-files-1/data/SRR9320601/Y5RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320601/Y5RL2_R2_001.fastq.gz
+        Young_Y5_spleen_34w,/staged-files-1/data/SRR9320602/Y5S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320602/Y5S1_R2_001.fastq.gz
+        Young_Y5_spleen_34w,/staged-files-1/data/SRR9320603/Y5S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320603/Y5S2_R2_001.fastq.gz
+        Old_O1_kidney_88w,/staged-files-1/data/SRR9320604/O1K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320604/O1K1_R2_001.fastq.gz
+        Old_O1_kidney_88w,/staged-files-1/data/SRR9320605/O1K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320605/O1K2_R2_001.fastq.gz
+        Old_O1_lung_88w,/staged-files-1/data/SRR9320606/O1RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320606/O1RL1_R2_001.fastq.gz
+        Old_O1_lung_88w,/staged-files-1/data/SRR9320607/O1RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320607/O1RL2_R2_001.fastq.gz
+        Old_O1_spleen_88w,/staged-files-1/data/SRR9320608/O1S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320608/O1S1_R2_001.fastq.gz
+        Old_O1_spleen_88w,/staged-files-1/data/SRR9320609/O1S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320609/O1S2_R2_001.fastq.gz
+        Old_O2_kidney_91w,/staged-files-1/data/SRR9320610/O2K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320610/O2K1_R2_001.fastq.gz
+        Old_O2_kidney_91w,/staged-files-1/data/SRR9320611/O2K2_R1_001.fastq.gz,/staged-files-1/data/SRR9320611/O2K2_R2_001.fastq.gz
+        Old_O2_lung_91w,/staged-files-1/data/SRR9320612/O2RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320612/O2RL1_R2_001.fastq.gz
+        Old_O2_lung_91w,/staged-files-1/data/SRR9320613/O2RL2_R1_001.fastq.gz,/staged-files-1/data/SRR9320613/O2RL2_R2_001.fastq.gz
+        Old_O2_spleen_91w,/staged-files-1/data/SRR9320614/O2S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320614/O2S1_R2_001.fastq.gz
+        Old_O2_spleen_91w,/staged-files-1/data/SRR9320615/O2S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320615/O2S2_R2_001.fastq.gz
+        Old_O3_kidney_93w,/staged-files-1/data/SRR9320616/O3K1_R1_001.fastq.gz,/staged-files-1/data/SRR9320616/O3K1_R2_001.fastq.gz
+        Old_O3_lung_93w,/staged-files-1/data/SRR9320617/O3RL1_R1_001.fastq.gz,/staged-files-1/data/SRR9320617/O3RL1_R2_001.fastq.gz
+        Old_O3_spleen_93w,/staged-files-1/data/SRR9320618/O3S1_R1_001.fastq.gz,/staged-files-1/data/SRR9320618/O3S1_R2_001.fastq.gz
+        Old_O3_spleen_93w,/staged-files-1/data/SRR9320619/O3S2_R1_001.fastq.gz,/staged-files-1/data/SRR9320619/O3S2_R2_001.fastq.gz
         ```
 
         Input parameter `.yml` file
@@ -231,41 +231,26 @@
  
         ```
         id,data_directory,mt_cc_rm_genes
-        Old_O1_kidney_88w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O1_kidney_88w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O1_lung_88w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O1_lung_88w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O1_lung_88w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O1_lung_88w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O1_spleen_88w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O1_spleen_88w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O1_spleen_88w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O1_spleen_88w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O2_kidney_91w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O2_kidney_91w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O2_kidney_91w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O2_kidney_91w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O2_lung_91w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O2_lung_91w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O2_lung_91w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O2_lung_91w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O2_spleen_91w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O2_spleen_91w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O3_kidney_93w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O3_kidney_93w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O3_lung_93w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O3_lung_93w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O3_spleen_93w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O3_spleen_93w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Old_O3_spleen_93w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Old_O3_spleen_93w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y1_kidney_29w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y1_kidney_29w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y1_kidney_29w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y1_kidney_29w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y1_spleen_29w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y1_spleen_29w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_kidney_31w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_kidney_31w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_kidney_31w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_kidney_31w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_lung_31w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_lung_31w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_lung_31w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_lung_31w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_spleen_31w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_spleen_31w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y3_spleen_31w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y3_spleen_31w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_kidney_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_kidney_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_kidney_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_kidney_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_lung_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_lung_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_lung_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_lung_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_spleen_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_spleen_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y4_spleen_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y4_spleen_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_kidney_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_kidney_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_kidney_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_kidney_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_lung_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_lung_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_lung_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_lung_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_spleen_34w_rep1,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_spleen_34w_rep1/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
-        Young_Y5_spleen_34w_rep2,/staged-files-1/admin/scrnaseq_out/cellranger/count/Young_Y5_spleen_34w_rep2/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O1_kidney_88w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O1_kidney_88w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O1_lung_88w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O1_lung_88w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O1_spleen_88w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O1_spleen_88w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O2_kidney_91w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O2_kidney_91w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O2_lung_91w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O2_lung_91w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O2_spleen_91w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O2_spleen_91w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O3_kidney_93w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O3_kidney_93w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O3_lung_93w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O3_lung_93w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Old_O3_spleen_93w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Old_O3_spleen_93w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y1_kidney_29w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y1_kidney_29w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y1_spleen_29w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y1_spleen_29w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y3_kidney_31w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y3_kidney_31w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y3_lung_31w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y3_lung_31w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y3_spleen_31w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y3_spleen_31w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y4_kidney_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y4_kidney_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y4_lung_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y4_lung_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y4_spleen_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y4_spleen_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y5_kidney_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y5_kidney_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y5_lung_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y5_lung_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
+        Young_Y5_spleen_34w,/staged-files-1/admin/new-prebake/scrnaseq_out/cellranger/count/Young_Y5_spleen_34w/outs/filtered_feature_bc_matrix/,/staged-files-1/reference/AuxillaryGeneList_mm.csv
         ```
 
         Input parameter `.yml` file
