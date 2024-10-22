@@ -35,8 +35,9 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 | **10:00-11:00** | Introduction to Single-cell omics                       | [:fontawesome-solid-file-pdf:](presentations/intro_to_single_cell_jhg_oct_2024.pdf) |
 | **11:00-12:00** | Keynote lecture-I by Dr. Iain Drummond                  |                   |
 | **12:00-01:00** | Lunch                                                   |                   |
-| **01:00-02:00** | scrnaseq Pipeline Overview                              | [:fontawesome-solid-file-pdf:](presentations/scsrnaseqPipelineOverview.pdf) |
-| **02:00-04:00** | Cloud Infrastructure Overview                           | [:fontawesome-solid-file-pdf:](presentations/Cloud_Infrastructure_Setup-Ashley_Tung.pdf) |
+| **01:00-02:00** | Intro to Nextflow & Pipelines                           | [:fontawesome-solid-file-pdf:](presentations/NextflowIntroScRNAseqCourse.pdf) |
+| **02:00-03:00** | scrnaseq Pipeline Overview                              | [:fontawesome-solid-file-pdf:](presentations/scsrnaseqPipelineOverview.pdf) |
+| **03:00-04:00** | Cloud Infrastructure Overview                           | [:fontawesome-solid-file-pdf:](presentations/Cloud_Infrastructure_Setup-Ashley_Tung.pdf) |
 | **04:00-04:30** | Experiment Overview                                     |                   |
 | **04:30-05:00** | Launch scrnaseq workflow                                |                   |
 
