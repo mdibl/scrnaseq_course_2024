@@ -6,7 +6,7 @@ This two-and-a-half day workshop will focus on using cloud infrastructure to car
 
 <div class="grid cards" markdown>
  :material-calendar: October 23-25, 2024          
- :fontawesome-solid-map-location: MDI Biological Laboratory 
+ [:fontawesome-solid-map-location: MDI Biological Laboratory](https://maps.app.goo.gl/z3GV9i9G1UCauYPt5)
 </div>
 
 [Apply Now](https://labcentral.mdibl.org/programs/view/660){ .md-button .md-button--primary }
@@ -24,46 +24,47 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 
 ---
 
-## Tentative Schedule 
+## Schedule 
 
 #### **October 23**
 
-| Time        | Activity                                                |
-|-------------|---------------------------------------------------------|
-| **9:00-9:30**   | Welcome \| Coffee/Tea \| Orientation                    |
-| **9:30-10:00**  | Agenda/Course logistics                                 |
-| **10:00-11:00** | Introduction to Single-cell omics                       |
-| **11:00-12:00** | Keynote lecture-I by Dr. Iain Drummond                  |
-| **12:00-01:00** | Lunch                                                   |
-| **01:00-02:00** | scrnaseq workflow overview (nextflow & pipeline concepts)|
-| **02:00-04:00** | Cloud infrastructure setup                              |
-| **04:00-04:30** | Experimental setup overview                             |
-| **04:30-05:00** | Launch scrnaseq workflow                                |
+| Time        | Activity                                                |  |
+|-------------|---------------------------------------------------------|-------------------|
+| **9:00-9:30**   | Welcome \| Coffee/Tea \| Orientation                    |                   |
+| **9:30-10:00**  | Agenda/Course logistics                                 |                   |
+| **10:00-11:00** | Introduction to Single-cell omics                       | [:fontawesome-solid-file-pdf:](presentations/intro_to_single_cell_jhg_oct_2024.pdf) |
+| **11:00-12:00** | Keynote lecture-I by Dr. Iain Drummond                  |                   |
+| **12:00-01:00** | Lunch                                                   |                   |
+| **01:00-02:00** | scrnaseq Pipeline Overview                              | [:fontawesome-solid-file-pdf:](presentations/scsrnaseqPipelineOverview.pdf) |
+| **02:00-04:00** | Cloud Infrastructure Overview                           | [:fontawesome-solid-file-pdf:](presentations/Cloud_Infrastructure_Setup-Ashley_Tung.pdf) |
+| **04:00-04:30** | Experiment Overview                                     |                   |
+| **04:30-05:00** | Launch scrnaseq workflow                                |                   |
 
 #### **October 24**
 
-| Time        | Activity                                                |
-|-------------|---------------------------------------------------------|
-| **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-1                |
-| **9:30-10:00**  | Overview of day-2                                       |
-| **10:00-11:00** | Keynote lecture-II by Dr. Prayag Murawala               |
-| **11:00-11:30** | Pipeline review (resiliency, cost analysis, failed jobs analysis if any)  |
-| **11:30-12:00** | Debugging methodology & tips                            |
-| **12:00-01:00** | Lunch                                                   |
-| **01:00-01:30** | MDI campus tour                                         |
-| **01:30-02:30** | scrnaseq output QC review (multiqc, count matrices)     |
-| **02:30-04:30** | Downstream normalization & statistics (seurat)          |
-| **4:30-05:00**  | Launch scscape workflow                                 |
+| Time        | Activity                                                |  |
+|-------------|---------------------------------------------------------|-------------------|
+| **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-1                |                   |
+| **9:30-10:00**  | Overview of day-2                                       |                   |
+| **10:00-11:00** | Keynote lecture-II by Dr. Prayag Murawala               |                   |
+| **11:00-11:30** | Pipeline Execution Review                               |                   |
+| **11:30-12:00** | Debugging methodology & tips                            |                   |
+| **12:00-01:00** | Lunch                                                   |                   |
+| **01:00-01:30** | MDIBL Campus Tour                                       |                   |
+| **01:30-02:30** | ScRNAseq Output Review                                  |                   |
+| **02:30-04:30** | scscape Pipeline Overview                               | [:fontawesome-solid-file-pdf:](presentations/scscapeStats.pdf) |
+| **4:30-05:00**  | Launch scscape workflow                                 |                   |
 
 #### **October 25**
 
-| Time        | Activity                                                |
-|-------------|---------------------------------------------------------|
-| **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-2                |
-| **9:30-10:00**  | Overview of day-3                                       |
-| **10:00-10:30** | Loupe browser introduction [:fontawesome-solid-file-powerpoint:](presentations/loupeBroswerIntroduction.pptx)  [:fontawesome-solid-file-pdf:](presentations/loupeBroswerIntroduction.pdf)                            |
-| **10:30-12:30** | Loupe browser exploration (validation logs, QC plots, PCA)|
-| **12:30-01:30** | Lunch & End of workshop                                 |
+| Time        | Activity                                                |  |
+|-------------|---------------------------------------------------------|-------------------|
+| **9:00-9:30**   | Welcome \| Coffee/Tea \| Review of day-2                |                   |
+| **9:30-10:00**  | Overview of day-3                                       |                   |
+| **10:00-10:30** | Loupe Browser Introduction                              | [:fontawesome-solid-file-pdf:](presentations/loupeBroswerIntroduction.pdf) |
+| **10:30-12:30** | Loupe Browser Exploration                               |                   |
+| **12:30-01:30** | Lunch & End of Workshop                                 |                   |
+
 
 
 
