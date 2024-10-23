@@ -24,6 +24,16 @@ Additionally, the workshop will present a new Nextflow ScRNAseq clustering pipel
 
 ---
 
+## The Dataset 
+Kimmel JC, Penland L, Rubinstein ND, Hendrickson DG, Kelley DR, Rosenthal AZ. Murine single-cell RNA-seq reveals cell-identity- and tissue-specific trajectories of aging. Genome Res. 2019 Dec;29(12):2088-2103. doi: 10.1101/gr.253880.119. Epub 2019 Nov 21. PMID: 31754020; PMCID: PMC6886498.
+
+[:fontawesome-solid-newspaper: Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6886498/pdf/2088.pdf){ .md-button .md-button--primary }
+
+[:fontawesome-solid-database: Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132901){ .md-button .md-button--primary }
+
+---
+
+
 ## Schedule 
 
 #### **October 23**
