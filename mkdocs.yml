@@ -2,6 +2,7 @@ site_name: ScRNAseq in the Cloud
 nav:
   - Home: index.md
   - Instructors: instructors.md
+  - Leaning Resources: learning_resources.md
   - Arrival: arrival.md
   - Launch: launch.md
   - Debug: debug.md
