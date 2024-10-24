@@ -9,10 +9,15 @@ Hubbard Center for Genome Studies
 
 ### Nextflow Debugging Page:
 
+Nextflow
+
 [:material-pipe-leak:   Nextflow](https://training.nextflow.io/basic_training/debugging/){ .md-button .md-button--primary }
 
+### Single Cell Online Course
 
-https://training.nextflow.io/basic_training/debugging/
+Wellcome Sanger Institute Single Cell Course
+
+[:fontawesome-solid-microscope: Course](https://www.singlecellcourse.org/){ .md-button .md-button--primary }
 
 ### UMAP Paper: 
 
