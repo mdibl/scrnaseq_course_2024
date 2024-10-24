@@ -4,6 +4,7 @@ nav:
   - Instructors: instructors.md
   - Arrival: arrival.md
   - Launch: launch.md
+  - Debug: debug.md
   - Output: output.md
   - Loupe Browser: loupe.md
 theme:
