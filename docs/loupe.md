@@ -16,6 +16,9 @@ Follow these instructions to download the Loupe Browser:
 2. Select the installation for your computer's opperating system. 
 3. Follow any subsequent steps prompted from the installation. 
 
+## Supplemental Files
+[Spleen Marker File](supplementalFiles/SpleenMarkersFinal.csv)
+
 ## Preview
 
 #### Homepage
