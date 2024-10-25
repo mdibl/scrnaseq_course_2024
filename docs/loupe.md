@@ -18,6 +18,8 @@ Follow these instructions to download the Loupe Browser:
 
 ## Supplemental Files
 [Spleen Marker File](supplementalFiles/SpleenMarkersFinal.csv)
+[T Cell Subtype Marker File](supplementalFiles/TCellSubTypes.csv)
+[Paper Supplemental File](https://pmc.ncbi.nlm.nih.gov/articles/instance/6886498/bin/supp_gr.253880.119_Supplemental_Material_.pdf)
 
 ## Preview
 
