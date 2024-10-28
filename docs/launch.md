@@ -1,5 +1,6 @@
 # Launch Setup
 
+
 ## **Pre-Built Template** vs **MMCloud Air** vs **Float CLI**
 
 !!! Note "Methods"
@@ -16,6 +17,9 @@
 
         Launching from the Float CLI gives you the most control. You have full control of the launch, but need to be familiar with the float cli.
 
+## **Workflow Architecture**
+
+![MMC Workflow Architecture](images/MMC_WorkFlow_Architecture.png)
 
 
 ## **`nf-core/scrnaseq` Setup**
